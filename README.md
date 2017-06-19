@@ -8,5 +8,5 @@ Chat application developed using the following technologies
   
 Developers 
   - Yaeri Lim
-  - Mark Crisostomo
   - Charles Kim
+  - Mark Crisostomo
