@@ -1,4 +1,4 @@
-##React/Redux chat application with Firebase
+#React/Redux chat application with Firebase
 
 Chat application developed using the following technologies
   - React
